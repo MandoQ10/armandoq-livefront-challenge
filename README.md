@@ -1,5 +1,9 @@
 # Armando Q Livefront code challenge
 
+## Summary
+
+For the challenge, I decided to use the [Pokemon API](https://pokeapi.co/docs/v2). The react app will display pokemon in a selected generation. Upon clicking a pokemon, you will be directed to a detailed page of the pokemon
+
 ## Getting Started
 
 ### Installation
