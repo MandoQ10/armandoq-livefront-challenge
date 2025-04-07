@@ -6,6 +6,7 @@
     ".react-router/types/**/*"
   ],
   "compilerOptions": {
+    "allowJs": true,
     "lib": ["DOM", "DOM.Iterable", "ES2022"],
     "types": ["node", "vite/client", "vitest/globals"],
     "target": "ES2022",
