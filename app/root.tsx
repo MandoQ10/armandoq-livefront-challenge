@@ -32,6 +32,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         <Links />
       </head>
+      <header className="flex flex-col items-center gap-9">
+        <h1>Pokemon Generations</h1>
+      </header>
       <body>
         {children}
         <ScrollRestoration />
